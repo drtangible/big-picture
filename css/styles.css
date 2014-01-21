@@ -24,6 +24,10 @@ code {
   background-color: yellow;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header-fixed {
   color: white;
   text-shadow: 0 1px 1px rgba(0,0,0,0.5);
